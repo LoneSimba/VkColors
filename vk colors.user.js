@@ -1,6 +1,8 @@
 // ==UserScript==
 // @name         vk colors
 // @namespace    http://tampermonkey.net/
+// @updateURL    https://github.com/LoneSimba/VkColors/raw/main/vk%20colors.user.js
+// @downloadURL  https://github.com/LoneSimba/VkColors/raw/main/vk%20colors.user.js
 // @version      0.2
 // @description  Изменяет цвета оформления ВК 2020 года на темные.
 // @author       LoneSimba
